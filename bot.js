@@ -33,7 +33,6 @@ client.logOn({
 const priceUrl = 'https://api.csgofast.com/price/all';
 
 function getPriceList() {
-
     request(priceUrl, (error, response, body) => {
         if (error || response.statusCode !== 200) return console.log(`Error: ${error} - Status Code: ${response.statusCode}`);
         fs.writeFile('prices.json', body);
