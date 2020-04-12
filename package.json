@@ -7,7 +7,7 @@
     "fs": "^0.0.1-security",
     "request": "^2.83.0",
     "steam-totp": "^1.4.1",
-    "steam-tradeoffer-manager": "^2.9.3",
+    "steam-tradeoffer-manager": "^2.10.1",
     "steam-user": "^3.25.0",
     "steamcommunity": "^3.34.1",
     "cryptiles": ">=4.1.2",
