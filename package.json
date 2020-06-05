@@ -9,7 +9,7 @@
     "steam-totp": "^2.1.1",
     "steam-tradeoffer-manager": "^2.9.3",
     "steam-user": "^4.15.5",
-    "steamcommunity": "^3.34.1",
+    "steamcommunity": "^3.41.4",
     "cryptiles": ">=4.1.2",
     "hoek": ">=4.2.1"
   },
